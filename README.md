@@ -1,4 +1,4 @@
 # Deeplearning.ai
 Deeplearning.ai Coursera Notebooks
 
-Notebooks for programming assignments of the deeplearning.ai specialization
+Notebooks containing my solutions for the programming assignments of the deeplearning.ai specialization 
